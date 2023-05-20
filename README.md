@@ -1,4 +1,4 @@
-#Yum Yum Foods Project
+# Yum Yum Foods Project
 
 **Description:** Randomized restaurant generator built using: HTML, CSS, Python, Flask, MySQL, Bootstrap
 
